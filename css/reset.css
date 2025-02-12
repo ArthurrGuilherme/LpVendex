@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 * {
-    margin: 0;
+    margin: 0 !important;
     border: 0;
     padding: 0;
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+}
+p {
+    margin: 0px !important;
+}
+h1 {
+    font-weight: 800 !important;
+}
+:root {
+    --bs-degrad: linear-gradient(180deg, #000000 0%, #472750 100%);
+    --bs-primario: #B268F9;
 }
