@@ -19,3 +19,14 @@ h1, h3 {
     --bs-degrad02: linear-gradient(180deg, #000000 0%, #472750 100%);
     --bs-primario: #B268F9;
 }
+#rd-column-m3hrj05a > div {
+    padding: 0px !important;
+}
+.bricks-form__fieldset {
+    display: contents !important;
+}
+#rdstation-bricks-embeddable-form-bricks-component-4XOlPdt_ExIfJa5Ir__xnQ .bricks--column button {
+    height: auto !important;
+    width: auto !important;
+    font-size: 1rem !important;
+}
