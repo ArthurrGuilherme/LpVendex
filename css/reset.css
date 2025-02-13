@@ -15,6 +15,7 @@ h1, h3 {
     font-weight: 800 !important;
 }
 :root {
-    --bs-degrad: linear-gradient(180deg, #000000 0%, #472750 100%);
+    --bs-degrad: linear-gradient(0deg, #000000 0%, #472750 100%);
+    --bs-degrad02: linear-gradient(180deg, #000000 0%, #472750 100%);
     --bs-primario: #B268F9;
 }
