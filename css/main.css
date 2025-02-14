@@ -1,0 +1,31 @@
+#rd-column-m3hrj05a > div {
+    padding: 0px !important;
+}
+.bricks-form__fieldset {
+    display: contents !important;
+}
+#rdstation-bricks-embeddable-form-bricks-component-dyyJx6sXjzmBRePdzI6Aiw .bricks--column button {
+    height: auto !important;
+    width: auto !important;
+    font-size: 1rem !important;
+}
+#conversion-form-formulario-padrao-duplicado {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+#rdstation-bricks-embeddable-form-bricks-component-ag9QHNXDr1nchXnsIzh7mQ .bricks--column button{
+    height: auto !important;
+    width: auto !important;
+    font-size: 1rem !important;
+}
+#conversion-form-formulario-ads-great-pages {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+summary {
+    background: #FFFFFF17;
+    padding: 1rem;
+    border-radius: 20px;
+}
