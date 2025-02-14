@@ -4,7 +4,7 @@
 .bricks-form__fieldset {
     display: contents !important;
 }
-#rdstation-bricks-embeddable-form-bricks-component-dyyJx6sXjzmBRePdzI6Aiw .bricks--column button {
+#rdstation-bricks-embeddable-form-bricks-component-zdHk2LpbTKYImKxCLTK6lA .bricks--column button {
     height: auto !important;
     width: auto !important;
     font-size: 1rem !important;
@@ -14,7 +14,7 @@
     flex-direction: column;
     gap: 1rem;
 }
-#rdstation-bricks-embeddable-form-bricks-component-ag9QHNXDr1nchXnsIzh7mQ .bricks--column button{
+#rdstation-bricks-embeddable-form-bricks-component-G3eRYH67I5OuBmPPinITOQ .bricks--column button{
     height: auto !important;
     width: auto !important;
     font-size: 1rem !important;
@@ -35,4 +35,12 @@ summary {
 }
 #s2id_autogen9 {
     display: none !important;
+}
+#rd-phone_field-m73rv55h {
+    width: 297px !important;
+    border-radius: 28px !important;
+}
+#rd-phone_field-m73rtmxo {
+    width: 297px !important;
+    border-radius: 28px !important;
 }
