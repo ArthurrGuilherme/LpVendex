@@ -1,8 +1,8 @@
-main {
+.Mobile {
     display: none;
 }
 @media only screen and (max-width: 991px) {
-    main {
+    .Mobile {
         display: block;
     }
     #rd-column-m3hrj05a > div {
