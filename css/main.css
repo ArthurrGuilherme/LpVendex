@@ -5,6 +5,9 @@
     .Mobile {
         display: block;
     }
+    .Desktop {
+        display: none;
+    }
     #rd-column-m3hrj05a > div {
         padding: 0px !important;
     }
@@ -37,12 +40,13 @@
         border-radius: 40px;
     
     }
-    #s2id_autogen6 {
+    #rd-form-m3hrj05b .with-select-flags > .phone-input-group > .phone-country {
         display: none !important;
     }
-    #s2id_autogen9 {
+    #rd-form-m3hrj05b .with-select-flags > .phone-input-group > .phone-country {
         display: none !important;
     }
+    
     #rd-phone_field-m73rv55h {
         width: 297px !important;
         border-radius: 28px !important;
